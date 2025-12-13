@@ -17,4 +17,3 @@ while i < number_of_inputs:
 
 print(f'Largest number is: {larger_num} ')    
 
-
